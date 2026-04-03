@@ -71,7 +71,7 @@ export default function ChatApiPage() {
         messages={uiMessages}
         scrollRef={scrollRef}
         isLoading={isLoading}
-        emptyTitle="Un chat plus moderne"
+        emptyTitle="Un assistant AI "
         emptyDescription="Pose une question pour tester le streaming."
       />
     </ChatLayout>
